@@ -1,7 +1,7 @@
-
+1111
 gen a2dum=a2==2 & a2<.
 
-br
+
 
 tab a2dum
 count if a2==1
