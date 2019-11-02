@@ -21,7 +21,7 @@ set scrollbufsize 300000
 set maxvar 32767
 
 *Path
-global dir `"C:\Users\\`c(truongan)'\Dropbox\Promotion\Vietnam Project\Misallocation SME Vietnam"'
+global dir `"C:\Users\\`c(username)'\Dropbox\Promotion\Vietnam Project\Misallocation SME Vietnam"'
 global workpath "$dir\Dofiles"
 global rdatapathemp "$dir\Data\Raw Data\Employee data"
 global cdatapathemp "$dir\Data\Cleaned Data\Employee data"
