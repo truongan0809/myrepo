@@ -1,1 +1,1 @@
-var isPhoneGap = false;
+var isPhoneGap = true
