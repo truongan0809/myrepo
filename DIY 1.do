@@ -1,4 +1,4 @@
-xxx amsterdam
+abc amsterdam
 
 gen a2dum=a2==2 & a2<.
 
