@@ -1,5 +1,5 @@
 xxx amsterdam
-
+fff
 gen a2dum=a2==2 & a2<.
 
 browse
