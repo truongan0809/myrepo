@@ -27,8 +27,8 @@ tab a2dum
 
 label var a2dum "gioi tinh (nam vs nu)"
 label define gtinh 0 "nam" 1 "nu"
-label values a2dum gtinh
+label values a2dum gioitinh
 
-*check the validity of the new variable
+*cheeck the validity of the new variable
 tab a2dum a2, nolabel
 
