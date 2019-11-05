@@ -1,2 +1,2 @@
 var isPhoneGap = true
-* Generated at abd dn sfa
+* Generated at abd dn sfa sfafd
